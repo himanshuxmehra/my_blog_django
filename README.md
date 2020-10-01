@@ -9,5 +9,5 @@
   **1.0** Blog Created 
   
 ## Contribution 
-  Contributions are welcome, and they are greatly appreciated! Every little bit helps, and credit will always be given.
+  Contributions are welcome, and they are highly appreciated! Every little bit helps, and credit will always be given.
   Please star the repo and feel free to make pull requests. 
